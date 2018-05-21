@@ -65,7 +65,7 @@ group 'org.jetbrains'
 version '1.2' // Plugin version
 ```
 
-Then, with the Gradle executable on your system `PATH`, execute the following commands on your system's command line:
+Then, with the Gradle executable on your system `PATH`, execute the following command from your project's root directory on your system's command line:
 
 ```
 gradle cleanIdea idea
